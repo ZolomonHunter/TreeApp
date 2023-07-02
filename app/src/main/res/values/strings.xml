@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TreeApp</string>
+    <string name="defaultNodeName">Name: %1$s</string>
+    <string name="homeBtnText">Return to root node</string>
+    <string name="parentBtnText">Return to parent node</string>
+    <string name="leftChildBtnText">Left node</string>
+    <string name="rightChildBtnText">Right node</string>
+    <string name="createNodeBtnText">Create root node</string>
+    <string name="noNodeText">There is no node</string>
+    <string name="alreadyRootText">It is already root node</string>
+    <string name="rightChildCreateBtnText">Create right node</string>
+    <string name="leftChildCreateBtnText">Create left node</string>
+    <string name="deleteNodeBtnText">Delete node</string>
+</resources>
